@@ -1,8 +1,0 @@
-intext
-inurl
-site
-intitle
-filetype
-https://www.exploit-db.com/google-hacking-database
-pdfinfo cmd
-exiftool cmd
