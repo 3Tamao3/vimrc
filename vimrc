@@ -5,3 +5,4 @@ set ruler
 set background=dark
 set noswapfile
 set confirm
+set mouse=a
